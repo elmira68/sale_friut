@@ -1,0 +1,16 @@
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\sale_friut.csproj.AssemblyReference.cache
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\sale_friut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\sale_friut.AssemblyInfoInputs.cache
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\sale_friut.AssemblyInfo.cs
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\sale_friut.csproj.CoreCompileInputs.cache
+C:\Users\eli\Desktop\sale_friut\bin\Debug\net5.0\sale_friut.exe
+C:\Users\eli\Desktop\sale_friut\bin\Debug\net5.0\sale_friut.deps.json
+C:\Users\eli\Desktop\sale_friut\bin\Debug\net5.0\sale_friut.runtimeconfig.json
+C:\Users\eli\Desktop\sale_friut\bin\Debug\net5.0\sale_friut.runtimeconfig.dev.json
+C:\Users\eli\Desktop\sale_friut\bin\Debug\net5.0\sale_friut.dll
+C:\Users\eli\Desktop\sale_friut\bin\Debug\net5.0\ref\sale_friut.dll
+C:\Users\eli\Desktop\sale_friut\bin\Debug\net5.0\sale_friut.pdb
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\sale_friut.dll
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\ref\sale_friut.dll
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\sale_friut.pdb
+C:\Users\eli\Desktop\sale_friut\obj\Debug\net5.0\sale_friut.genruntimeconfig.cache
